@@ -1,0 +1,69 @@
+<mjml>
+  <mj-body background-color="#d7dde5">
+    <mj-section full-width="full-width">
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Découvrez la Sophrologie</span></mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="https://projet-mtd-mariejob.web.app/" style="text-decoration: none; color: inherit;">mariejob.fr</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://i.imgur.com/eebpCM1.png" alt="Logo Marie Job" padding-bottom="0px" padding-top="10px"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" padding-bottom="0px" padding-top="10px"><a href="https://projet-mtd-mariejob.web.app/" style="text-decoration: none; color: inherit;">Accueil</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a href="https://projet-mtd-mariejob.web.app/sophrologie_hypnose.html" style="text-decoration: none; color: inherit;">Sophrologie & Hypnose</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+          <a href="https://projet-mtd-mariejob.web.app/about.html" style="text-decoration: none; color: inherit;">A propos</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://i.imgur.com/OOUCsXn.png" vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-size="14px" color="white" padding-bottom="10px" padding-top="45px"><span style="font-size: 30px; line-height: 30px;">SOPHROLOGUE CERTIFIÉE
+HYPNOTHÉRAPEUTE</span><br/><br/>Outils pratiques pour le corps et l'esprit</mj-text>
+        <mj-button align="center" background-color="3D7181" color="#fff" border-radius="24px" href="https://projet-mtd-mariejob.web.app/index.html" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">Visitez le site</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i.imgur.com/EoAXA68.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #3D7181">ÉQUILIBRE</span><br/><br/>Grâce à la sophrologie, vous allez libérer les tensions physiques, émotionnelles et mentale. Vous apprendrez à mieux vous connaître et à repérer votre fonctionnement. </mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i.imgur.com/5Yshdog.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #3D7181">PÉDAGOGIE</span><br/><br/>Il me tient particulièrement à cœur de vous aider à comprendre le fonctionnement de la sophrologie et de vous transmettre tous ses outils pour pouvoir les réutiliser dans votre quotidien.</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://i.imgur.com/noOlkyI.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"><span style="font-size: 14px; color: #3D7181">PLAISIR</span><br/><br/>La vie est belle ! Pratiquer la sophrologie implique de puiser dans ses ressources pour pouvoir se réaliser pleinement en tant qu'individu, en pleine conscience de nos capacités et des choix qui s'offrent a nous afin de vivre en harmonie avec nous-même et notre environnement.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3D7181" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px">Pourquoi la sophrologie ?</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        <mj-text align="center" color="white" font-size="11px" padding-bottom="25px">Souvent perçue comme une simple technique de relaxation, la sophrologie est aussi une philosophie de vie. Si elle permet, par des exercices simples, de se détendre et de chasser le stress, elle a également pour vocation de nous faire prendre conscience de ce qui nous anime, ce qui nous motive ou, au contraire, nous contrarie. En fonction des besoins de chacun, elle permet de développer son propre potentiel ou d'accepter ses propres limites afin de retrouver une certaine harmonie.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="https://i.imgur.com/HTQmMex.png" alt="" padding-bottom="20px" padding-top="20px"></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px"><span style="font-weight: bold; font-size: 14px; color: #45474e">Cette newsletter vous a plu ? Vous voulez prendre rendez vous ?</span><br/><br/>Prenez contact avec le bouton ci-dessous et planifiez votre première séance !</mj-text>
+        <mj-button align="left" background-color="#3D7181" color="#fff" border-radius="24px" font-size="11px" href="https://www.doctolib.fr/sophrologue/neuilly-sur-seine/marie-job" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">PRENDRE RENDEZ-VOUS</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0px">
+          <p style="font-size: 11px">16 Boulevard du Château, 92200 Neuilly-sur-Seine</p>
+        </mj-text>
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0px">
+          <p style="font-size: 11px">Téléphone :  07.86.29.55.96</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
